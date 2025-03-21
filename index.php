@@ -120,7 +120,7 @@
 							<h6 class="sm-heading">Connect</h6>
 							<ul class="list-inline">
 								<li>
-									<a class="button-circle button-circle-sm" href="#">
+									<a class="button-circle button-circle-sm" href="https://github.com/Faiq-Hassan">
 										<i class="bi bi-github"></i>
 										<i class="bi bi-github"></i>
 									</a>
