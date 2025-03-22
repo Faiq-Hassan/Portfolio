@@ -110,9 +110,7 @@
 								<li>Web Development</li>
 								<li>Mobile App Development</li>
 								<li>UI & UX Design</li>
-								
 								<li>Marketing & SEO Expert</li>
-				
 								<li>Management</li>
 							</ul>
 						</div>
@@ -126,13 +124,13 @@
 									</a>
 								</li>
 								<li>
-									<a class="button-circle button-circle-sm" href="#">
+									<a class="button-circle button-circle-sm" href="http://wa.me/923094902818">
 										<i class="bi bi-whatsapp"></i>
 										<i class="bi bi-whatsapp"></i>
 									</a>
 								</li>
 								<li>
-									<a class="button-circle button-circle-sm" href="#">
+									<a class="button-circle button-circle-sm" href="https://www.linkedin.com/in/faiq-hassan-59648621b/">
 										<i class="bi bi-linkedin"></i>
 										<i class="bi bi-linkedin"></i>
 									</a>
@@ -145,15 +143,15 @@
 					<div class="row g-4 g-lg-5">
 						<div class="col-4 col-lg-12">
 							<h6 class="sm-heading">Projects Done</h6>
-							<h1 class="fw-light display-4 mb-0 line-height-110">432</h1>
+							<h1 class="fw-light display-4 mb-0 line-height-110">265</h1>
 						</div>
 						<div class="col-4 col-lg-12">
 							<h6 class="sm-heading">Years of Experience</h6>
-							<h1 class="fw-light display-4 mb-0 line-height-110">13+</h1>
+							<h1 class="fw-light display-4 mb-0 line-height-110">6+</h1>
 						</div>
 						<div class="col-4 col-lg-12">
 							<h6 class="sm-heading">Worldwide Clients</h6>
-							<h1 class="fw-light display-4 mb-0 line-height-110">900</h1>
+							<h1 class="fw-light display-4 mb-0 line-height-110">162</h1>
 						</div>
 					</div><!-- end row(inner) -->
 				</div>
@@ -173,53 +171,134 @@
 						<div class="row g-4">
 							<!-- Service box 1 -->
 							<div class="col-12">
-								<div class="service-box">
-									<div class="service-order">
-										<h3>01/</h3>
+								<a href="#contact">
+									<div class="service-box">
+										<div class="service-order">
+											<h3>01</h3>
+										</div>
+										<div class="service-title">
+											<i class="bi bi-code-slash"></i>
+											<h3>Web Development</h3>
+										</div>
+										<div class="service-text">
+											<p>MEAN/MERN, Vue/Laravel, WordPress, Django,Shopify: <br>
+												🚀 Scalable & Secure <br>
+												⚡ Fast Performance <br>
+												🎯 Custom & Dynamic <br>
+											</p>
+										</div>
 									</div>
-									<div class="service-title">
-										<i class="bi bi-brush"></i>
-										<h3>Design</h3>
-									</div>
-									<div class="service-text">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-											tempor incididunt ut</p>
-									</div>
-								</div>
+								</a>
 							</div>
 							<!-- Service box 2 -->
 							<div class="col-12">
-								<div class="service-box">
-									<div class="service-order">
-										<h3>02/</h3>
+								<a href="#contact">
+									<div class="service-box">
+										<div class="service-order">
+											<h3>02</h3>
+										</div>
+										<div class="service-title">
+											<i class="bi bi-phone"></i>
+											<h3>App Development</h3>
+										</div>
+										<div class="service-text">
+											<p>React Native, Flutter:<br>
+												📲 Cross-Platform Both Android & iOS <br>
+												🛠️ Feature-Rich <br>
+												🔄 Seamless Integration
+											</p>
+										</div>
 									</div>
-									<div class="service-title">
-										<i class="bi bi-code-slash"></i>
-										<h3>Development</h3>
-									</div>
-									<div class="service-text">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-											tempor incididunt ut labore et</p>
-									</div>
-								</div>
+								</a>
 							</div>
 							<!-- Service box 3 -->
 							<div class="col-12">
-								<div class="service-box">
-									<div class="service-order">
-										<h3>03/</h3>
+								<a href="#contact">
+									<div class="service-box">
+										<div class="service-order">
+											<h3>03</h3>
+										</div>
+										<div class="service-title">
+											<i class="bi bi-bar-chart"></i>
+											<h3>Digital Marketing</h3>
+										</div>
+										<div class="service-text">
+											<p>SEO, Graphics, PPC, Lead Generation: <br>
+												📊 SEO-Optimized <br>
+												🎯 Targeted Ads <br>
+												💡 Lead Generation <br>
+											</p>
+										</div>
 									</div>
-									<div class="service-title">
-										<i class="bi bi-laptop"></i>
-										<h3>Marketing</h3>
-									</div>
-									<div class="service-text">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-											tempor incididunt ut labore</p>
-									</div>
-								</div>
+								</a>
 							</div>
 							<!-- end Service box 3 -->
+							<!-- Service box 4 -->
+							<div class="col-12">
+								<a href="#contact">
+									<div class="service-box">
+										<div class="service-order">
+											<h3>04</h3>
+										</div>
+										<div class="service-title">
+											<i class="bi bi-globe-americas"></i>
+											<h3>Social Media Handling & Branding:</h3>
+										</div>
+										<div class="service-text">
+											<p>Build your brand presence like never before: <br>
+												📢 Engaging Content<br>
+												📈 Growth Strategies<br>
+												🎨 Unique Branding <br>
+											</p>
+										</div>
+									</div>
+								</a>
+							</div>
+							<!-- end Service box 4 -->
+							<!-- Service box 5 -->
+							<div class="col-12">
+								<a href="#contact">
+									<div class="service-box">
+										<div class="service-order">
+											<h3>05</h3>
+										</div>
+										<div class="service-title">
+											<i class="bi bi-robot"></i>
+											<h3>AI-Powered Chatbots & Automation</h3>
+										</div>
+										<div class="service-text">
+											<p>Streamline customer interactions with Ai: <br>
+												💬 24/7 Support<br>
+												🤖 Smart Automation <br>
+												📊 Data-Driven Insights <br>
+											</p>
+										</div>
+									</div>
+								</a>
+							</div>
+							<!-- end Service box 5 -->
+							<!-- Service box 6 -->
+							<div class="col-12">
+								<a href="#contact">
+									<div class="service-box">
+										<div class="service-order">
+											<h3>06</h3>
+										</div>
+										<div class="service-title">
+											<i class="bi bi-paint-bucket"></i>
+											<h3>UI/UX & Graphic Designing</h3>
+										</div>
+										<div class="service-text">
+											<p>Stunning visuals that engage & convert: <br>
+												🖌️ Creative Designs<br>
+												📱 User-Centric <br>
+												🎨 Custom Branding <br>
+											</p>
+										</div>
+									</div>
+								</a>
+							</div>
+							<!-- end Service box 6 -->
 						</div><!-- end row(inner) -->
 					</div>
 				</div><!-- end row -->
@@ -235,52 +314,44 @@
 						<!-- Slider Item 1 -->
 						<div class="swiper-slide">
 							<div class="client-box">
-								<a href="#">
-									<img src="assets/images/client-logo.jpg" alt="">
+								<a href="#contact">
+									<img src="assets/images/figma.png" alt="">
 								</a>
 							</div>
 						</div>
 						<!-- Slider Item 2 -->
 						<div class="swiper-slide">
 							<div class="client-box">
-								<a href="#">
-									<img src="assets/images/client-logo.jpg" alt="">
+								<a href="#contact">
+									<img src="assets/images/vs.png" alt="">
 								</a>
 							</div>
 						</div>
 						<!-- Slider Item 3 -->
 						<div class="swiper-slide">
 							<div class="client-box">
-								<a href="#">
-									<img src="assets/images/client-logo.jpg" alt="">
+								<a href="#contact">
+									<img src="assets/images/python.png" alt="">
 								</a>
 							</div>
 						</div>
 						<!-- Slider Item 4 -->
 						<div class="swiper-slide">
 							<div class="client-box">
-								<a href="#">
-									<img src="assets/images/client-logo.jpg" alt="">
+								<a href="#contact">
+									<img src="assets/images/flutter.png" alt="">
 								</a>
 							</div>
 						</div>
 						<!-- Slider Item 5 -->
 						<div class="swiper-slide">
 							<div class="client-box">
-								<a href="#">
-									<img src="assets/images/client-logo.jpg" alt="">
+								<a href="#contact">
+									<img src="assets/images/bot.png" alt="">
 								</a>
 							</div>
 						</div>
-						<!-- Slider Item 6 -->
-						<div class="swiper-slide">
-							<div class="client-box">
-								<a href="#">
-									<img src="assets/images/client-logo.jpg" alt="">
-								</a>
-							</div>
-						</div>
-						<!-- end Slider Item 6 -->
+
 					</div><!-- end swiper-wrapper -->
 				</div><!-- end clients-slider -->
 			</div><!-- end container -->
@@ -295,9 +366,9 @@
 						<div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
 							<span class="title-heading text-white-04">Portfolio</span>
 							<h1 class="display-3 fw-medium">Recent <span class="text-gradient">Works</span></h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation</p>
+							<p>A showcase of my latest projects, crafted with precision and creativity. From web development to mobile apps
+								and UI/UX design, each project is tailored to
+								deliver outstanding user experiences and business impact. Explore my work and see how I bring ideas to life</p>
 							<!-- Slider Nav -->
 							<div class="mt-4">
 								<div class="swiper-portfolio-prev button-circle cursor-link">
@@ -319,28 +390,19 @@
 								<div class="portfolio-box">
 									<!-- Image -->
 									<div class="portfolio-img">
-										<a href="#">
-											<img src="assets/images/portfolio-img.jpg" alt="">
+										<a href="#contact">
+											<img src="assets/images/zufa-mockup.png" alt="">
 										</a>
 									</div>
 									<div class="pt-4">
 										<!-- Categories -->
 										<ul class="list-inline-dot sm-heading text-white mb-2">
 											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
+												<a class="link-hover" href="#contact">
+													<span data-text="E-Commerce Website">E-Commerce Website</span>
 												</a>
 											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
-												</a>
-											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
-												</a>
-											</li>
+
 										</ul>
 										<!-- Caption -->
 										<h2>
