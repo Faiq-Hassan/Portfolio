@@ -17,7 +17,9 @@
 	<!-- Fonts/Icons -->
 	<link href="assets/plugins/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
 	<link href="assets/plugins/fontawesome/css/all.css" rel="stylesheet">
-</head>
+
+
+
 
 <body data-preloader="true">
 
@@ -406,9 +408,9 @@
 										</ul>
 										<!-- Caption -->
 										<h2>
-											<a class="portfolio-caption" href="#">
+											<a class="portfolio-caption" href="#contact">
 												<i class="bi bi-arrow-right"></i>
-												Project Title Here
+												Next-Gen Shopping Platform
 											</a>
 										</h2>
 									</div>
@@ -419,34 +421,25 @@
 								<div class="portfolio-box">
 									<!-- Image -->
 									<div class="portfolio-img">
-										<a href="#">
-											<img src="assets/images/portfolio-img.jpg" alt="">
+										<a href="#conatct">
+											<img src="assets/images/app.png" alt="">
 										</a>
 									</div>
 									<div class="pt-4">
 										<!-- Categories -->
 										<ul class="list-inline-dot sm-heading text-white mb-2">
 											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
+												<a class="link-hover" href="#contact">
+													<span data-text="Digital product App">Digital product App</span>
 												</a>
 											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
-												</a>
-											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
-												</a>
-											</li>
+
 										</ul>
 										<!-- Caption -->
 										<h2>
 											<a class="portfolio-caption" href="#">
 												<i class="bi bi-arrow-right"></i>
-												Project Title Here
+												Mobile App For Play & App Store
 											</a>
 										</h2>
 									</div>
@@ -457,40 +450,90 @@
 								<div class="portfolio-box">
 									<!-- Image -->
 									<div class="portfolio-img">
-										<a href="#">
-											<img src="assets/images/portfolio-img.jpg" alt="">
+										<a href="#contact">
+											<img src="assets/images/apex-mockup.png" alt="">
 										</a>
 									</div>
 									<div class="pt-4">
 										<!-- Categories -->
 										<ul class="list-inline-dot sm-heading text-white mb-2">
 											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
+												<a class="link-hover" href="#contact">
+													<span data-text="Real-Estate Website">Real-Estate Website</span>
 												</a>
 											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
-												</a>
-											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Category">Category</span>
-												</a>
-											</li>
+
 										</ul>
 										<!-- Caption -->
 										<h2>
-											<a class="portfolio-caption" href="#">
+											<a class="portfolio-caption" href="#contact">
 												<i class="bi bi-arrow-right"></i>
-												Project Title Here
+												Premium Real Estate Solutions
 											</a>
 										</h2>
 									</div>
 								</div><!-- end portfolio-box -->
 							</div>
-							<!-- end Slider Item 3 -->
+							<!-- end Slider Item 4 -->
+							<div class="swiper-slide">
+								<div class="portfolio-box">
+									<!-- Image -->
+									<div class="portfolio-img">
+										<a href="#contact">
+											<img src="assets/images/hoodie-mockup.png" alt="">
+										</a>
+									</div>
+									<div class="pt-4">
+										<!-- Categories -->
+										<ul class="list-inline-dot sm-heading text-white mb-2">
+											<li>
+												<a class="link-hover" href="#contact">
+													<span data-text="Product-Mockup">Product-Mockup</span>
+												</a>
+											</li>
+
+										</ul>
+										<!-- Caption -->
+										<h2>
+											<a class="portfolio-caption" href="#contact">
+												<i class="bi bi-arrow-right"></i>
+												Streetwear Visuals – Hoodie Design Showcase
+											</a>
+										</h2>
+									</div>
+								</div><!-- end portfolio-box -->
+							</div>
+							<!-- end Slider Item 4 -->
+							<!-- Slider Item 5 -->
+							<div class="swiper-slide">
+								<div class="portfolio-box">
+									<!-- Image -->
+									<div class="portfolio-img">
+										<a href="#contact">
+											<img src="assets/images/boostvibe-mockup.png" alt="">
+										</a>
+									</div>
+									<div class="pt-4">
+										<!-- Categories -->
+										<ul class="list-inline-dot sm-heading text-white mb-2">
+											<li>
+												<a class="link-hover" href="#contact">
+													<span data-text="Clothing Store">Clothing Store</span>
+												</a>
+											</li>
+
+										</ul>
+										<!-- Caption -->
+										<h2>
+											<a class="portfolio-caption" href="#contact">
+												<i class="bi bi-arrow-right"></i>
+												Boostvibe – Online Clothing Store
+											</a>
+										</h2>
+									</div>
+								</div><!-- end portfolio-box -->
+							</div>
+							<!-- end Slider Item 5 -->
 						</div><!-- end swiper-wrapper -->
 					</div><!-- end portfolio-slider -->
 				</div><!-- end container -->
@@ -511,37 +554,34 @@
 							<!-- Award box 1 -->
 							<div class="col-12 col-md-6">
 								<div class="fancy-box">
-									<h4>Award Title</h4>
-									<h6 class="sm-heading text-white-04 mb-2">2023</h6>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-										tempor incididunt ut labore et dolore</p>
+									<h4> W3Schools React Certification</h4>
+									<h6 class="sm-heading text-white-04 mb-2">2024</h6>
+									<p> React has been a game-changer in modern web development, and mastering its core concepts from hooks and state management to optimizing performanc 🚀</p>
 								</div>
 							</div>
 							<!-- Award box 2 -->
 							<div class="col-12 col-md-6">
 								<div class="fancy-box">
-									<h4>Award Title</h4>
+									<h4>Microsoft(MLSA)</h4>
 									<h6 class="sm-heading text-white-04 mb-2">2023</h6>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-										tempor incididunt ut labore et</p>
+									<p>I have successfully completed the
+										Ultimate Bootstrap Bootcamp through the Microsoft Learn Student Ambassadors program! 🎓 they have boosted my web development skills</p>
 								</div>
 							</div>
 							<!-- Award box 3 -->
 							<div class="col-12 col-md-6">
 								<div class="fancy-box">
-									<h4>Award Title</h4>
+									<h4>Microsoft (GitTreasure)</h4>
 									<h6 class="sm-heading text-white-04 mb-2">2023</h6>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-										tempor incididunt ut labore</p>
+									<p>Turbocharged my skills in using GitHub and collaborating on open-source projects, enabling me to make meaningful contributions to the tech community.</p>
 								</div>
 							</div>
 							<!-- Award box 4 -->
 							<div class="col-12 col-md-6">
 								<div class="fancy-box">
-									<h4>Award Title</h4>
-									<h6 class="sm-heading text-white-04 mb-2">2023</h6>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-										tempor incididunt ut labore</p>
+									<h4>Mastering Prompt Engineering</h4>
+									<h6 class="sm-heading text-white-04 mb-2">2024</h6>
+									<p> AI transforming industries at lightning speed, prompt engineering is fast becoming a must-have skill for developers, marketers, and creators</p>
 								</div>
 							</div>
 							<!-- end Award box 4 -->
@@ -561,47 +601,18 @@
 						<div class="swiper-slide">
 							<div class="testimonial-box">
 								<div class="testimonial-avatar">
-									<img src="assets/images/testimonial-avatar.jpg" alt="">
+									<img src="assets/images/yahya.png" alt="">
 								</div>
 								<div class="testimonial-content">
 									<div class="mb-3">
-										<h3>Alexander Warren</h3>
-										<span class="sm-heading text-white">CTO - Company</span>
+										<h3>Yahya Yaseen</h3>
+										<span class="sm-heading text-white">CEO-Devamaze</span>
 									</div>
-									<p class="fs-4 fw-normal fst-italic line-height-140">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+									<p class="fs-4 fw-normal fst-italic line-height-140">Machine Learning Engineer | AI & Deep Learning Specialist | Python Automation & Web Scraping | AI Chatbot Development | API Integration | Data Analysis & Visualization</p>
 								</div>
 							</div>
 						</div>
-						<!-- Slider item 2 -->
-						<div class="swiper-slide">
-							<div class="testimonial-box">
-								<div class="testimonial-avatar">
-									<img src="assets/images/testimonial-avatar.jpg" alt="">
-								</div>
-								<div class="testimonial-content">
-									<div class="mb-3">
-										<h3>Alexander Warren</h3>
-										<span class="sm-heading text-white">CTO - Company</span>
-									</div>
-									<p class="fs-4 fw-normal fst-italic line-height-140">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
-								</div>
-							</div>
-						</div>
-						<!-- Slider item 3 -->
-						<div class="swiper-slide">
-							<div class="testimonial-box">
-								<div class="testimonial-avatar">
-									<img src="assets/images/testimonial-avatar.jpg" alt="">
-								</div>
-								<div class="testimonial-content">
-									<div class="mb-3">
-										<h3>Alexander Warren</h3>
-										<span class="sm-heading text-white">CTO - Company</span>
-									</div>
-									<p class="fs-4 fw-normal fst-italic line-height-140">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
-								</div>
-							</div>
-						</div>
+
 					</div>
 					<!-- Slider Pagination Progress -->
 					<div class="swiper-testimonial-pagination"></div>
@@ -611,150 +622,6 @@
 		</div>
 		<!-- end Testimonial section -->
 
-		<!-- Blog section -->
-		<div id="blog" class="section-box">
-			<div class="section-sm bg-dark border-radius-1">
-				<div class="container">
-					<div class="row">
-						<div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-							<span class="title-heading text-white-04">Journal</span>
-							<h1 class="display-3 fw-medium">Blog <span class="text-gradient">Posts</span></h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation</p>
-							<!-- Slider Nav -->
-							<div class="mt-4">
-								<div class="swiper-blog-prev button-circle cursor-link">
-									<i class="bi bi-arrow-left"></i>
-									<i class="bi bi-arrow-left"></i>
-								</div>
-								<div class="swiper-blog-next button-circle cursor-link">
-									<i class="bi bi-arrow-right"></i>
-									<i class="bi bi-arrow-right"></i>
-								</div>
-							</div>
-							<!-- end Slider Nav -->
-						</div>
-					</div><!-- end row -->
-					<div class="swiper blog-slider mt-4 mt-lg-5">
-						<div class="swiper-wrapper">
-							<!-- Slide Item 1 -->
-							<div class="swiper-slide">
-								<div class="blog-post-box">
-									<div class="blog-post-img">
-										<!-- Image -->
-										<a class="blog-post-img-link" href="#">
-											<img src="assets/images/blog-img.jpg" alt="">
-										</a>
-										<!-- Category -->
-										<div class="blog-post-category">
-											<a href="#">
-												<span data-text="Category">Category</span>
-											</a>
-										</div>
-									</div>
-									<div class="mt-4">
-										<ul class="list-inline-dot sm-heading text-white mb-2">
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="by Admin">by Admin</span>
-												</a>
-											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Oct 8">Oct 8</span>
-												</a>
-											</li>
-										</ul>
-										<h2 class="mb-0">
-											<a class="blog-caption" href="#">
-												<i class="bi bi-arrow-right"></i>
-												Blog Post Title
-											</a>
-										</h2>
-									</div>
-								</div>
-							</div>
-							<!-- Slide Item 2 -->
-							<div class="swiper-slide">
-								<div class="blog-post-box">
-									<div class="blog-post-img">
-										<!-- Image -->
-										<a class="blog-post-img-link" href="#">
-											<img src="assets/images/blog-img.jpg" alt="">
-										</a>
-										<!-- Category -->
-										<div class="blog-post-category">
-											<a href="#">
-												<span data-text="Category">Category</span>
-											</a>
-										</div>
-									</div>
-									<div class="mt-4">
-										<ul class="list-inline-dot sm-heading text-white mb-2">
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="by Admin">by Admin</span>
-												</a>
-											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Oct 8">Oct 8</span>
-												</a>
-											</li>
-										</ul>
-										<h2 class="mb-0">
-											<a class="blog-caption" href="#">
-												<i class="bi bi-arrow-right"></i>
-												Blog Post Title
-											</a>
-										</h2>
-									</div>
-								</div>
-							</div>
-							<!-- Slide Item 3 -->
-							<div class="swiper-slide">
-								<div class="blog-post-box">
-									<div class="blog-post-img">
-										<!-- Image -->
-										<a class="blog-post-img-link" href="#">
-											<img src="assets/images/blog-img.jpg" alt="">
-										</a>
-										<!-- Category -->
-										<div class="blog-post-category">
-											<a href="#">
-												<span data-text="Category">Category</span>
-											</a>
-										</div>
-									</div>
-									<div class="mt-4">
-										<ul class="list-inline-dot sm-heading text-white mb-2">
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="by Admin">by Admin</span>
-												</a>
-											</li>
-											<li>
-												<a class="link-hover" href="#">
-													<span data-text="Oct 8">Oct 8</span>
-												</a>
-											</li>
-										</ul>
-										<h2 class="mb-0">
-											<a class="blog-caption" href="#">
-												<i class="bi bi-arrow-right"></i>
-												Blog Post Title
-											</a>
-										</h2>
-									</div>
-								</div>
-							</div>
-						</div><!-- end swiper-wrapper -->
-					</div><!-- end blog-slider -->
-				</div><!-- end container -->
-			</div>
-		</div>
-		<!-- end Blog section -->
 
 		<!-- Contact section -->
 		<div id="contact" class="section pb-0">
@@ -831,18 +698,24 @@
 
 					</div>
 				</div><!-- end row -->
-				<!-- Google Maps -->
-				<div id="map1" class="gmap gmap-md border-radius-1 mt-5" data-latitude="51.513569" data-longitude="-0.123443"></div>
-				<!-- end Google Maps -->
-			</div><!-- end container -->
+
+				<!-- end Contact section -->
+			</div>
 		</div>
-		<!-- end Contact section -->
+
+
+		<!-- Google Maps -->
+		<div id="map1" class="gmap gmap-md border-radius-1 mt-5" data-latitude="31.4131862" data-longitude="73.1046746"></div>
+		<!-- end Google Maps -->
+
+		
+
 
 	</main>
 
 	<!-- Footer -->
 	<div class="py-4 py-lg-5 text-center">
-		<p>&copy; 2023 FlaTheme, All Rights Reserved.</p>
+		<p>&copy; 2025,Faiq Hassan,All Rights Reserved.</p>
 	</div>
 	<!-- end Footer -->
 
@@ -856,10 +729,26 @@
 	<!-- end Scroll To Top -->
 
 	<!-- JavaScripts -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+
+
 	<script src="assets/plugins/jquery.min.js"></script>
 	<script src="assets/plugins/plugins.js"></script>
 	<script src="assets/js/functions.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
 
 </html>

@@ -1,21 +1,4 @@
-/*================================================
-*
-* Template name : Mone
-* Version       : 1.0.1
-* Author        : FlaTheme
-* Author URL    : http://themeforest.net/user/flatheme
-*
-* Table of Contents :
-* 1. Page Preloader
-* 2. Cursor
-* 3. Header Nav Menu
-* 4. Scroll To Top
-* 5. Sliders
-* 6. Lightbox
-* 7. Google Maps
-* 8. Contact Form
-*
-================================================*/
+
 "use strict";
 
 var $body = $("body");
@@ -280,6 +263,10 @@ if (mapCanvas.length) {
     });
   }
 }
+
+  
+
+
 
 
 /*===============================================

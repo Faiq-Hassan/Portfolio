@@ -1087,6 +1087,7 @@ button.mfp-close:hover {
 -------------------------------------------------*/
 .gmap {
   width: 100%;
+ 
 }
 
 .gmap-sm {
@@ -1099,6 +1100,7 @@ button.mfp-close:hover {
 
 .gmap-lg {
   height: 450px;
+
 }
 
 @media (max-width: 991.98px) {
@@ -2011,3 +2013,26 @@ body.loaded:after {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+
+.map-one {
+	position: relative;
+	padding-bottom: 40px;
+width: 100%;}
+
+.map-one_map iframe {
+	position: relative;
+	height: 500px;
+	width: 100%;
+	border-radius: 8px;
+	
+}
+
+
+
+
+
+
+
+
+
