@@ -62,9 +62,9 @@
 							<li class="nav-item">
 								<a class="nav-link" href="#testimonial"><i class="bi bi-arrow-right"></i>Testimonial</a>
 							</li>
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 								<a class="nav-link" href="#blog"><i class="bi bi-arrow-right"></i>Blog</a>
-							</li>
+							</li> -->
 							<li class="nav-item">
 								<a class="nav-link" href="#contact"><i class="bi bi-arrow-right"></i>Contact</a>
 							</li>
@@ -534,6 +534,7 @@
 								</div><!-- end portfolio-box -->
 							</div>
 							<!-- end Slider Item 5 -->
+							 
 						</div><!-- end swiper-wrapper -->
 					</div><!-- end portfolio-slider -->
 				</div><!-- end container -->
@@ -705,7 +706,7 @@
 
 
 		<!-- Google Maps -->
-		<div id="map1" class="gmap gmap-md border-radius-1 mt-5" data-latitude="31.4131862" data-longitude="73.1046746"></div>
+		<!-- <div id="map1" class="gmap gmap-md border-radius-1 mt-5" data-latitude="31.4131862" data-longitude="73.1046746"></div> -->
 		<!-- end Google Maps -->
 
 		

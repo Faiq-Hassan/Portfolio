@@ -234,35 +234,35 @@ $lightboxMedia.each(function() {
 /*===============================================
   7. Google Maps
 ===============================================*/
-var mapCanvas = $(".gmap");
+// var mapCanvas = $(".gmap");
 
-if (mapCanvas.length) {
-  var m,divId,initLatitude, initLongitude, map;
+// if (mapCanvas.length) {
+//   var m,divId,initLatitude, initLongitude, map;
 
-  for (var i = 0; i < mapCanvas.length; i++) {
-    m = mapCanvas[i];
+//   for (var i = 0; i < mapCanvas.length; i++) {
+//     m = mapCanvas[i];
 
-    initLatitude = m.dataset["latitude"];
-    initLongitude = m.dataset["longitude"];
-    divId = "#"+ m["id"];
+//     initLatitude = m.dataset["latitude"];
+//     initLongitude = m.dataset["longitude"];
+//     divId = "#"+ m["id"];
 
-    map = new GMaps({
-      el: divId,
-      lat: initLatitude,
-      lng: initLongitude,
-      zoom: 16,
-      scrollwheel: false,
-      styles: [
-          /* style your map at https://snazzymaps.com/editor and paste JSON here */
-      ]
-    });
+//     map = new GMaps({
+//       el: divId,
+//       lat: initLatitude,
+//       lng: initLongitude,
+//       zoom: 16,
+//       scrollwheel: false,
+//       styles: [
+//           /* style your map at https://snazzymaps.com/editor and paste JSON here */
+//       ]
+//     });
 
-    map.addMarker({
-      lat : initLatitude,
-      lng : initLongitude
-    });
-  }
-}
+//     map.addMarker({
+//       lat : initLatitude,
+//       lng : initLongitude
+//     });
+//   }
+// }
 
   
 
